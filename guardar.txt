@@ -1,0 +1,2 @@
+ --notebook-dir=c:\_NotebookAvanzada2
+
